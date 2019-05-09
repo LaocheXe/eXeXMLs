@@ -1,5 +1,13 @@
 <xml version='1.0' encoding='utf-8' ?>
-<regions>
-	<server name="Select 1" region="Select" host="none" />
-	<server name="Texas 1" region="Texas" host="http://git.501stlegion-a3.com" />
+<regions type="array">
+	<server>
+		<name>Select</name>
+		<host>None</host>
+		<region>Select</region>
+	</server>
+	<server>
+		<name>US Central</name>
+		<host>git.501stlegion-a3.com</host>
+		<region>Texas</region>
+	</server>
 </regions>
