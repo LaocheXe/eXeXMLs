@@ -1,4 +1,4 @@
-<xml version='1.0' encoding='utf-8' ?>
+<xml version='1.0' encoding='utf-8'>
 <regions type="array">
 	<server>
 		<name>Select</name>
@@ -11,3 +11,4 @@
 		<region>Texas</region>
 	</server>
 </regions>
+</xml>
