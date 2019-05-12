@@ -1,0 +1,14 @@
+<xml version='1.0' encoding='utf-8'>
+<downloads type="array">
+	<download>
+		<name>Select</name>
+		<location>None</location>
+		<region>Select</region>
+	</download>
+	<download>
+		<name>The Test</name>
+		<location>/Cruisie/TCW-Testing</location>
+		<region>US Central</region>
+	</download>
+</downloads>
+</xml>

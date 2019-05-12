@@ -7,7 +7,7 @@
 	</server>
 	<server>
 		<name>US Central</name>
-		<host>git.501stlegion-a3.com</host>
+		<host>http://git.501stlegion-a3.com</host>
 		<region>Texas</region>
 	</server>
 </regions>
